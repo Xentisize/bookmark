@@ -1,5 +1,5 @@
 {
-"python.pythonPath": "/Users/wik/WS/Python/dj2/venv/bin/python",
+"python.pythonPath": "/home/xens/WS/Python/dj2/venv/bin/python",
 "python.linting.pylintEnabled": true,
 "python.linting.enabled": true
 }
